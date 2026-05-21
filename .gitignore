@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# WhatsApp session
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Environment variables
+.env
+
+# QR image
+qr.png
+
+# Python cache
+__pycache__/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
