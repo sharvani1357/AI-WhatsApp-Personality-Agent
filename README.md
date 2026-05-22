@@ -54,6 +54,61 @@ The system automatically switches between providers.
 
 ---
 
+# 💡 Project Idea
+
+Initially, this project started as a simple rule-based reply system using predefined keyword-based responses.
+
+Later, it was upgraded into an AI-powered personalized messaging system where reply behavior dynamically changes according to custom prompts and personalities created by the user.
+
+The main goal of this project was:
+- exploring personality-based AI conversations
+- understanding prompt engineering
+- learning conversational behavior customization
+- experimenting with AI agents and automation workflows
+- creating more engaging and human-like AI texting experiences
+
+---
+
+# 🎭 Personality Examples
+
+Users can create personalities like:
+
+## 😂 Chaos Meme Friend
+Funny Gen Z texting personality with memes, sarcasm, casual slang, and chaotic energy.
+
+## 😎 Smooth Confident Texter
+Cool, confident, stylish texting behavior with smooth replies.
+
+## 🌙 Comfort Friend
+Emotionally supportive personality with calm and caring conversations.
+
+The AI dynamically changes its texting style according to the selected personality prompt.
+
+---
+
+# ⚠️ Important Limitation
+
+This project does NOT truly know real-world information such as:
+- What someone is doing right now
+- Live activities
+- Real-world awareness
+- Actual current events around the user
+
+Instead, it generates human-like conversational replies based on:
+- prompts
+- personality behavior
+- conversation context
+- AI-generated conversational flow
+
+So the project focuses more on:
+- 🧠 conversational behavior simulation
+- 🎭 personality-based texting
+- 💬 realistic conversational experiences
+
+rather than factual real-world awareness.
+
+---
+
 # 🏗️ Project Structure
 
 ```text
@@ -150,28 +205,12 @@ This allows:
 
 ---
 
-# 🎭 Personality Examples
-
-## 😂 Chaotic Meme Friend
-Funny internet-style texting personality.
-
-## 😎 Smooth Confident Friend
-Cool, confident, stylish replies.
-
-## 🌙 Comfort Friend
-Emotionally supportive personality.
-
-## 💀 Dry Humor Friend
-Sarcastic and witty texting style.
-
----
-
 # 📦 Installation
 
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/AI-WhatsApp-Personality-Agent.git
+git clone https://github.com/sharvani1357/AI-WhatsApp-Personality-Agent.git
 ```
 
 ---
@@ -245,28 +284,36 @@ Features:
 
 ---
 
-# 📸 Screenshots
+# 🎥 Demo Video
 
-Add screenshots here:
+Watch the full project demo here:
 
-```text
-Frontend screenshots
-QR generation screenshots
-Personality customization screenshots
-```
+https://www.linkedin.com/posts/sharvani-karnati-90614b318_ai-python-nodejs-activity-7463496116903391232-t4i9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFB3n1YBCJWNLwSLSWg9wnoAxHECqh50HkA
 
 ---
 
 # 🌟 Future Improvements
 
-- 🎤 Voice reply support
-- 👥 Multi-user support
-- 📊 Chat analytics dashboard
-- 🧠 Long-term conversation memory
-- ☁️ Cloud deployment
-- 📱 Mobile app integration
-- 🤖 Custom AI avatars
-- 🧬 Fine-tuned personality models
+Although the project works successfully, there are still many areas that can be improved further such as:
+
+- Better memory/context handling
+- More advanced conversational intelligence
+- Cloud deployment
+- Multi-user scalability
+- Voice interaction support
+- Improved long-term conversational flow
+- AI memory systems
+- Advanced agent workflows
+
+---
+
+# 🔥 Biggest Challenges Faced
+
+- Managing WhatsApp sessions
+- Dynamic prompt updates without restarting backend
+- Puppeteer & QR authentication handling
+- Integrating AI response systems
+- Stable frontend-backend communication
 
 ---
 
@@ -281,6 +328,12 @@ Please follow WhatsApp policies and use responsibly.
 # 👩‍💻 Author
 
 Developed by Karnati Sharvani.
+
+---
+
+# 🔗 GitHub Repository
+
+https://github.com/sharvani1357/AI-WhatsApp-Personality-Agent
 
 ---
 
